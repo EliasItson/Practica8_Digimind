@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Digimind"
+rootProject.name = "MyDigimind"
 include(":app")
  

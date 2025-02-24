@@ -1,4 +1,4 @@
-package elias.jorge.digimind
+package elias.jorge.mydigimind
 
 import org.junit.Test
 
